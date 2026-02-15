@@ -1,0 +1,13 @@
+# Options Strategy Analyzer - Requirements
+# Tested and compatible versions
+
+# Core dependencies
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
+plotly==5.18.0
+streamlit==1.31.0
+
+# Optional (for better performance)
+# pillow==10.2.0
+# kaleido==0.2.1  # For exporting charts
