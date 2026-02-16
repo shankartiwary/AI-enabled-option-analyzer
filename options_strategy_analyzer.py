@@ -16,7 +16,6 @@ from datetime import datetime, timedelta
 # ==================== PAGE CONFIG ====================
 st.set_page_config(
     page_title="Options Strategy Analyzer",
-    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
